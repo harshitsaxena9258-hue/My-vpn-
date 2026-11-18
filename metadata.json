@@ -1,0 +1,6 @@
+{
+  "name": "PulseVPN",
+  "description": "Free, ad-free Android VPN tunnel powered by Google Public DNS USA servers for fast, private, encrypted internet access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

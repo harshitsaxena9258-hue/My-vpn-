@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">PulseVPN</string>
+    <string name="tagline_free_no_ads">100% Free Forever • Zero Ads</string>
+    <string name="nav_vpn">VPN</string>
+    <string name="nav_servers">USA Servers</string>
+    <string name="nav_diagnostics">Diagnostics</string>
+
+    <string name="status_disconnected">Not Protected</string>
+    <string name="status_connecting">Connecting to Google USA…</string>
+    <string name="status_connected">Protected via Google USA</string>
+    <string name="status_disconnecting">Disconnecting…</string>
+    <string name="status_error">Connection Error</string>
+
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_connecting">Connecting</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_change_server">Change</string>
+    <string name="action_ping_all">Test All Pings</string>
+    <string name="action_verify_dns">Verify Google DNS</string>
+    <string name="action_clear_logs">Clear</string>
+
+    <string name="label_selected_server">Selected USA Server</string>
+    <string name="label_dns_encrypted">Queries Encrypted</string>
+    <string name="label_tunnel_latency">Google Ping</string>
+    <string name="label_data_routed">Tunnel Traffic</string>
+    <string name="label_session_duration">Session Time</string>
+    <string name="label_protocol">Protocol</string>
+    <string name="label_public_ip">Device Public IP</string>
+    <string name="label_active_resolver">Active Resolver</string>
+
+    <string name="vpn_permission_denied">VPN permission is required to start the encrypted tunnel.</string>
+    <string name="notification_channel_name">PulseVPN Tunnel</string>
+    <string name="notification_channel_desc">Shows active Google USA VPN connection status</string>
+    <string name="notification_title_connected">PulseVPN Connected</string>
+    <string name="notification_text_connected">Encrypted via %1$s (%2$s)</string>
+    <string name="notification_action_disconnect">Disconnect</string>
+
+    <string name="free_pledge_title">Always Free. No Ads. No Accounts.</string>
+    <string name="free_pledge_body">PulseVPN uses Android\'s native VpnService to route DNS traffic through Google Public DNS USA endpoints (8.8.8.8 &amp; 8.8.4.4) over encrypted DNS-over-HTTPS. There are no paid tiers, no subscriptions, and zero ad SDKs.</string>
+</resources>
